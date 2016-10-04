@@ -1,0 +1,6 @@
+c:\users\robin\documents\visual studio 2015\Projects\Supersolution\Superproject\bin\Debug\Superproject.exe.config
+C:\Users\Robin\Documents\Visual Studio 2015\Projects\Supersolution\Superproject\bin\Debug\Superproject.exe
+C:\Users\Robin\Documents\Visual Studio 2015\Projects\Supersolution\Superproject\bin\Debug\Superproject.pdb
+C:\Users\Robin\Documents\Visual Studio 2015\Projects\Supersolution\Superproject\obj\Debug\Superproject.csprojResolveAssemblyReference.cache
+C:\Users\Robin\Documents\Visual Studio 2015\Projects\Supersolution\Superproject\obj\Debug\Superproject.exe
+C:\Users\Robin\Documents\Visual Studio 2015\Projects\Supersolution\Superproject\obj\Debug\Superproject.pdb
